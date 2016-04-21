@@ -1,1 +1,122 @@
-this is sai from anantapur
+
+ PROFESSIONAL SUMMARY 	
+
+•	Having around 3¬¬ years of experience in Configuration Management, Build and Release  management
+•	Experience in setting up continuous builds, continuous deployment tools like Jenkins and others on the Linux platform.
+•	Experience in working on source controller tools like Subversion (SVN) &Git, Build tools like apache ANT&MAVEN, continuous integration tools such as Hudson/ Jenkins.
+•	Administer SVN Software Source Control System and any related tools.
+•	Extensive experience in setting up baselines, branching, merging, periodic backups of the source code and automation processes using shell scripts.
+•	Performing clean builds according to the schedule published for given releases.
+•	Experience in maintaining build environments and ensuring sanity of the same.
+•	Experience in automating build and release and release process, build management, dependency management and continues integration tools.
+•	Expertise in all build/release engineering tasks associated with the component production releases.
+•	Experience in software build tools like Apache Ant to write Build.xml respectively.
+•	Expertise in build tools like ANT for the building of deployable packages such as war from source code.
+•	Expertise in troubleshoot build problems as they arise & work with engineering team to resolve issues.
+•	Expertise on best practices for feature branching, merge conflicts and common library management.
+•	Strong knowledge in Software development methodologies like Agile, Scrum/Sprints, Iterative, Waterfall etc.
+•	Extensively used Jenkins Continues Integration tools as a SCM tool.
+•	Work with QA team to integrate the build system with automated test systems.
+•	Expert skills for deploying and configuring applications on Apache Tomcat server.
+•	A good team player with flexible attitude and able to work independently.
+
+EDUCATION
+
+Master Of Computer Applications from Sri Venkateswara University ,Tirupathi ,Andra Pradesh
+
+PROFISSIONAL EXPERIENCE
+
+•  Currently working as a Build & Release Engineer in Tech Mahindra,
+	Bangalore, From  June 2014 to till date
+•  Worked as a Build & Release Engineer in Infosys, Bangalore 
+From March 2013 to May 2014	
+Technical Skills:-	
+
+SCM Tools:-
+
+•	Subversion
+•	Git
+Operating System:-
+
+•	Red hat Linux
+•	windows 7/xp
+
+Build Tools:-
+
+•	ANT
+•	Maven
+Web Servers:-
+
+•	Apache
+App Servers:-
+
+•	Apache Tomcat
+
+Scripting Language:-
+
+•	Shell
+Build Automation Tool:-
+
+•	Hudson/
+Jenkins
+
+
+
+
+
+PROJECTS	
+ 
+Project  1           
+Title 			: LexisNexis
+Client 		               :Lexis Nexis, Ohio,USA
+Operating System	: LINUX
+Tools                                  :Apache Ant, Jenkins
+Role			:Build and Release engineer
+Period		               : june2014 – till
+
+Project Description:
+LexisNexis provides online databases of cases, statutes, regulations, newspapers, journals, business magazines, and other materials used by lawyers in doing legal and non-legal research.
+
+Role and Responsibilities:
+•	Handling the daily and weekly builds to various environments and make sure that, the environment is up all time.
+•	Proficiency with build and continuous integration system concepts.
+•	Creating tags and branches in svn.
+•	Working on daily activities such as application deployment, tuning and monitoring.
+•	Provide support to Production and Development environments.
+•	Troubleshooting and fixing of problems on Tomcat Application Server and Web server.
+•	Automated the build and deployments through Jenkins.
+•	Branching and tagging for multiple concurrent codes at the time of releases.
+•	Performed on demand builds and release to different test environments.
+•	Maintained the ANT scripts for builds.
+•	Worked on batch files and Linux shell scripts to automate QA process. Managed the bug tracking system.
+•	Trouble  shooting  the  various  builds  and  environment  related  issues  by  interacting  with developers, operations and others.
+•	Performing auditing for every production release.
+•	Problem determination and identifying the root cause and make the document for the future.
+
+Project 2    
+Title                                   : Capital One Financial Corporation
+Duration		: May  2013-May 2014
+Client			: Captial One  ,Texas,USA
+Role			: Build and Release Management
+Environments		: Subversion, Ant, Jenkins, shell  scripting 
+       
+Description
+The Capital One Financial Corporation is a U.S.-based bank holding company specializing in credit cards, home loans, auto loans, banking and savings products. A member of the Fortune 500, the company helped pioneer the mass marketing of credit cards in the early 1990s, and it is now the fourth-largest customer of the United States Postal Service  and has the sixth-largest deposit portfolio in the United States.
+
+Responsibilities:
+•	Involved source control management by SVN.
+•	Creating hardening plan and sprint plan
+•	Involved in Integrating Jenkins  with Build Environment
+•	Involved in fixing the Bugs in the build script
+•	Handing environment issues until to pre-prod
+•	Involved in the build and release activity 
+•	Generating variance report between production binaries and build from production branches
+•	Automating tools within the build environment.
+•	Controlling the overwritten of source code using version control tool Subversion.
+•	Creating the Branches.
+•	Sending code to the dev team when they requested for code with revision number.
+•	Scheduling the job using  Jenkins
+•	Administrated SVN version control system (Created accounts, branching, merging, patch fixes, snapshots, and trained users on SVN version control system.
+•	Administration and Backup of SVN repositories. Also involved in evaluating the software tools.
+•	Collecting .war files from dev team and Deploying them into the Tomcat Server
+
